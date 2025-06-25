@@ -17,7 +17,7 @@ experience for all moviegoers.
 - [Kevin Panchal](panchal@dal.ca) - _(Full-stack Developer)_
 - [Riya Patel](riya.patel@dal.ca) - _(Full-stack Developer)_
 - [Roshil Patel](rs622844@dal.ca) - _(Full-stack Developer)_
-- [Umang Mehta](umang@dal.ca) - _(Full-stack Developer)_
+- [Parth Ramoliya](ramoliya@dal.ca) - _(Full-stack Developer)_
 - [Vaidik Nimavat](vd386827@dal.ca) - _(Full-stack Developer)_
 
 ## Deployment

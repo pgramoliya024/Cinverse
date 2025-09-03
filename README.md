@@ -7,18 +7,14 @@ their preferred seats. Real-time seat availability updates enable informed ticke
 consumers' time and effort by delivering a user-friendly and efficient platform, ultimately creating an enjoyable movie
 experience for all moviegoers.
 
-- _Date Created_: 24 05 2023
-- _Last Modification Date_: 20 06 2023
-- _Git URL_: https://git.cs.dal.ca/umehta/csci-5709-grp-08
-
 ## Authors
 
-- [Himanshu Prajapati](himanshu@dal.ca) - _(Full-stack Developer)_
-- [Kevin Panchal](panchal@dal.ca) - _(Full-stack Developer)_
-- [Riya Patel](riya.patel@dal.ca) - _(Full-stack Developer)_
-- [Roshil Patel](rs622844@dal.ca) - _(Full-stack Developer)_
-- [Parth Ramoliya](ramoliya@dal.ca) - _(Full-stack Developer)_
-- [Vaidik Nimavat](vd386827@dal.ca) - _(Full-stack Developer)_
+- [Himanshu Prajapati] - _(Full-stack Developer)_
+- [Kevin Panchal] - _(Full-stack Developer)_
+- [Riya Patel] - _(Full-stack Developer)_
+- [Roshil Patel] - _(Full-stack Developer)_
+- [Parth Ramoliya] - _(Full-stack Developer)_
+- [Vaidik Nimavat] - _(Full-stack Developer)_
 
 ## Deployment
 
